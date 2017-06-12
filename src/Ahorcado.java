@@ -2,8 +2,23 @@ import java.util.Scanner;
 import java.io.IOException;
 import java.util.Date;
 
+/**
+ * Clase Ahorcado. 
+ * Se encarga de generar los funcionalidades necesarias para implementar 
+ * los métodos de control y gestión de la partida de nuestro juego.
+ *
+ * @author Odei
+ * @version 30.06.2013
+ */
 public class Ahorcado {
     
+    /**
+     * Genera y ejecuta una instancia de la aplicación Ahorcado mostrando
+     * mediante línea de comandos las intrucciones a seguir.
+     * 
+     * @param args String[]: argumentos de la línea de comandos
+     * @throws java.io.IOException
+     */
     public static void main(String[] args) throws IOException {
         Scanner input=new Scanner(System.in);
         String palabras[] = { "arlequin", "ambrosio",  "macgyver", "chiquetete",
