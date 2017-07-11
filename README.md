@@ -1,16 +1,16 @@
 Juego Ahorcado Comandos 0.9
 ================================
 
-Aplicación desarrollada en Java mediante línea de comando, implementa el famoso juego del 
-ahorcado con personajes famosos. El programa nos permite interactuar con el sistema introduciendo
+Aplicación desarrollada en Java que implementa el famoso juego del ahorcado con personajes famosos 
+mediante línea de comandos. El programa nos permite interactuar con el sistema introduciendo
 letras hasta averiguar o no el personaje seleccionado al azar. Al acabar la partida, se nos mostrará
-la palabra clave y el tiempo empleado, junto con los errores realizados.
+la palabra clave y el tiempo empleado junto con los errores realizados.
 
 ## Requisitos
 - [Java] 7 o superior (para ejecutar la Aplicación)
 
 ## Entorno de desarrollo
-La Aplicación ha sido desarrollada utilizando el IDE [NetBeans] pero también es posible su 
+La aplicación ha sido desarrollada utilizando el IDE [NetBeans] pero también es posible su 
 importanción en [Eclipe] y demás IDE's.
 
 ## Licencia
